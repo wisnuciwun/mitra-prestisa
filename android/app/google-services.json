@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461688067259",
+    "project_id": "customer-app-933b6",
+    "storage_bucket": "customer-app-933b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461688067259:android:a248030bbeeb3c5673c59e",
+        "android_client_info": {
+          "package_name": "com.prestisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461688067259-85jivf83jsisn58205i2n7372d3s9pii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-J_A9eLxcWajA5L5eUqEm8v-c7zmRBrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461688067259-85jivf83jsisn58205i2n7372d3s9pii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
